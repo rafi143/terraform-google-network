@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-variable "project_id" {
+variable "dynamic-fulcrum-303503" {
   description = "The ID of the project where this VPC will be created"
 }
 
-variable "network_name" {
+variable "network" {
   description = "The name of the network being created"
 }
 
